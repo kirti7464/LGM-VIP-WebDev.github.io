@@ -1,2 +1,2 @@
 # LGM-VIP-WebDev
-live lnik:   kirti7464.42web.io
+live lnik:   https//:kirti7464.42web.io
